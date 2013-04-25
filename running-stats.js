@@ -6,8 +6,7 @@ RunningStats = function( ){
     nvals: nvals,
     mean: mean,
     variance: variance,
-    std_dev: std_dev,
-    n: n
+    std_dev: std_dev
   };
 
   var n = 0, 
