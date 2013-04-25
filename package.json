@@ -1,5 +1,5 @@
 {
-  "name": "RunningStats",
+  "name": "runningstats",
   "version": "0.1.0",
   "description": "Very simple running mean, variance, and std dev",
   "main": "index.js",
