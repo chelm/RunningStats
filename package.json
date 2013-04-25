@@ -1,0 +1,25 @@
+{
+  "name": "RunningStats",
+  "version": "0.1.0",
+  "description": "Very simple running mean, variance, and std dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "vows --spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chelm/RunningStats.git"
+  },
+  "keywords": [
+    "streaming stats"
+  ],
+  "devDependencies": {
+    "vows": ">=0.7.0",
+    "grunt": "0.4.x",
+    "grunt-contrib-jshint": "0.3.x",
+    "grunt-vows": "0.4.x"
+  },
+  "author": "Chris Helm",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
